@@ -1,4 +1,6 @@
 Bulanık Mantık ile Çamaşır Makinesi Kontrol Sistemi
+
+
 Bu proje, C# ve Windows Forms kullanılarak geliştirilmiş bir Bulanık Mantık Denetleyici (Fuzzy Logic Controller) uygulamasıdır. Uygulama, bir çamaşır makinesinin deterjan miktarı, yıkama süresi ve tambur dönüş hızını; çamaşırın hassaslığı, kirlilik derecesi ve miktarına göre belirlemektedir.
 
 🎯 Proje Amacı
